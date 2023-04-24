@@ -1,13 +1,13 @@
 // import { SET_DATA_LIST, SET_NAME_REPO } from "../reactRedux/Reducer";
 
-// export type DataItemType = {
-//   id: number;
-//   title: string;
-//   number: number;
-//   created_at: string;
-//   login: string;
-//   comments: number;
-// };
+export type DataItemType = {
+  id: number;
+  title: string;
+  number: number;
+  created_at: string;
+  login: string;
+  comments: number;
+};
 // export type issuesCardType = {
 //   id: number;
 //   title: string;

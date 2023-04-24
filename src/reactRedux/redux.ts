@@ -5,10 +5,10 @@ import {
   legacy_createStore,
 } from "redux";
 import thunkMiddleware from "redux-thunk";
-import Reducer from "./Reducer";
+// import Reducer from "./Reducer";
 
 const redusers = combineReducers({
-  reducer: Reducer,
+  // reducer: Reducer,
 });
 
 type reducersType = typeof redusers;

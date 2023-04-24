@@ -1,4 +1,4 @@
-// import axios from "axios";
+import axios from "axios";
 
 // export const getDataOpenIssues = (owner: string, repo: string): any => {
 //   return axios
